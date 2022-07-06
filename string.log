@@ -1,0 +1,39 @@
+INFO : root : 2022-07-05 21:53:33,367 : Entered the string  
+INFO : root : 2022-07-05 21:53:55,087 : Entered the string  
+INFO : root : 2022-07-05 22:00:38,603 : Entered the string  
+INFO : root : 2022-07-05 22:00:38,603 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:02:19,041 : Entered the string  
+INFO : root : 2022-07-05 22:02:19,041 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:02:19,041 : 'int' object is not subscriptable 
+INFO : root : 2022-07-05 22:02:57,393 : Entered the string  
+INFO : root : 2022-07-05 22:02:57,393 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:06:06,088 : Entered the string  
+INFO : root : 2022-07-05 22:06:06,089 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:06:06,089 : executed success and answer is 
+INFO : root : 2022-07-05 22:07:21,270 : Entered the string  
+INFO : root : 2022-07-05 22:07:21,270 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:07:21,270 : executed success and answer is h   r tnrrmglsnimeNGyosi dtfco 
+INFO : root : 2022-07-05 22:07:43,936 : Entered the string  
+INFO : root : 2022-07-05 22:07:43,936 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:07:51,054 : Entered the string  
+INFO : root : 2022-07-05 22:07:51,054 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:07:59,473 : Entered the string  
+INFO : root : 2022-07-05 22:07:59,473 : entered the extract with jump function  
+INFO : root : 2022-07-05 22:07:59,473 : executed success and answer is h   r tnrrmglsnimeNGyosi dtfco 
+INFO : root : 2022-07-05 22:14:01,424 : Entered the string  
+INFO : root : 2022-07-05 22:14:01,424 : reverse string successful uoy era woh dlrow olleh 
+INFO : root : 2022-07-05 23:03:44,062 : Entered the string  
+INFO : root : 2022-07-05 23:03:44,063 : entered the extract with jump function  
+INFO : root : 2022-07-05 23:03:44,063 : executed success and answer is h   r tnrrmglsnimeNGyosi dtfco 
+INFO : root : 2022-07-05 23:03:44,063 : reverse string successful noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht 
+INFO : root : 2022-07-05 23:03:44,063 : converting the string to uppercase THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION 
+INFO : root : 2022-07-05 23:03:44,063 : the string is lower case = this is my first python programming class and i am learning python string and its function 
+INFO : root : 2022-07-05 23:03:44,063 : Success capitalizing the string = This Is My First Python Programming Class And I Am Learning Python String And Its Function 
+INFO : root : 2022-07-05 23:03:44,063 : Entered the string  
+INFO : root : 2022-07-05 23:03:44,063 : success stripping operation on string = hello 
+INFO : root : 2022-07-05 23:03:44,063 : success left stripping operation on string = hello  
+INFO : root : 2022-07-05 23:03:44,063 : success right stripping operation on string =  hello 
+INFO : root : 2022-07-05 23:03:44,064 : Entered the string  
+INFO : root : 2022-07-05 23:03:44,064 : successfully replaced yello world! 
+INFO : root : 2022-07-05 23:03:44,064 : Entered the string  
+INFO : root : 2022-07-05 23:03:44,064 : success centering of the string passed $$$$$$$veera$$$$$$$$ 

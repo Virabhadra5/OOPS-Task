@@ -1,0 +1,38 @@
+INFO : root : 2022-07-05 23:15:09,934 : entered inside a reverse_list function 
+INFO : root : 2022-07-05 23:15:09,934 : Success reversing of list l = [1, 4, 3, 5, 3, 6, 7]
+INFO : root : 2022-07-05 23:16:11,223 : entered inside a reverse_list function 
+INFO : root : 2022-07-05 23:16:11,223 : Success reversing of list l = 234
+ERROR : root : 2022-07-05 23:16:11,223 : 'int' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\91990\PycharmProjects\OOPS TASK 1\list_task.py", line 15, in reverse_list
+    return self.l[::-1]
+TypeError: 'int' object is not subscriptable
+INFO : root : 2022-07-05 23:18:06,689 : entered inside a reverse_list function 
+INFO : root : 2022-07-05 23:18:06,689 : Success reversing of list l = 234
+ERROR : root : 2022-07-05 23:18:06,691 : 'int' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\91990\PycharmProjects\OOPS TASK 1\list_task.py", line 18, in reverse_list
+    return self.l[::-1]
+TypeError: 'int' object is not subscriptable
+INFO : root : 2022-07-05 23:18:54,037 : entered inside a reverse_list function 
+ERROR : root : 2022-07-05 23:18:54,037 : 'int' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\91990\PycharmProjects\OOPS TASK 1\list_task.py", line 17, in reverse_list
+    logging.info("Success reversing of list l = %s", self.l[::-1])
+TypeError: 'int' object is not subscriptable
+INFO : root : 2022-07-06 22:12:28,040 : entered inside a reverse_list function 
+INFO : root : 2022-07-06 22:12:28,042 : Success reversing of list l = [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO : root : 2022-07-06 22:12:28,042 : entered find a number function of class
+INFO : root : 2022-07-06 22:12:28,042 : entered find a number function of class
+INFO : root : 2022-07-06 22:12:28,042 : entered extract list method of class ListTask
+INFO : root : 2022-07-06 22:12:28,043 : entered find a number function of class
+INFO : root : 2022-07-06 22:12:28,043 : entered inside extract_keys function
+INFO : root : 2022-07-06 22:12:28,043 : entered inside extract_keys function
+INFO : root : 2022-07-06 22:13:01,218 : entered inside a reverse_list function 
+INFO : root : 2022-07-06 22:13:01,219 : Success reversing of list l = [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO : root : 2022-07-06 22:13:01,219 : entered find a number function of class
+INFO : root : 2022-07-06 22:13:01,219 : entered find a number function of class
+INFO : root : 2022-07-06 22:13:01,219 : entered extract list method of class ListTask
+INFO : root : 2022-07-06 22:13:01,219 : entered find a number function of class
+INFO : root : 2022-07-06 22:13:01,219 : entered inside extract_keys function
+INFO : root : 2022-07-06 22:13:01,219 : entered inside extract_keys function
